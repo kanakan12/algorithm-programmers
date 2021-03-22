@@ -15,3 +15,4 @@
 13. [62048](https://programmers.co.kr/learn/courses/30/lessons/62048)
 14. [42626](https://programmers.co.kr/learn/courses/30/lessons/42626)
 15. [1845](https://programmers.co.kr/learn/courses/30/lessons/1845)
+16. [17687](https://programmers.co.kr/learn/courses/30/lessons/17687)
