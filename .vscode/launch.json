@@ -9,7 +9,7 @@
       "type": "cppdbg",
       "request": "launch",
       "targetArchitecture": "x64",
-      "program": "${workspaceFolder}/72410/72410",
+      "program": "${workspaceFolder}/12906/12906",
       "args": [],
       "stopAtEntry": false,
       "cwd": "${workspaceFolder}",
