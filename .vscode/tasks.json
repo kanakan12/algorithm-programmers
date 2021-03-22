@@ -6,7 +6,7 @@
     {
       "label": "echo",
       "type": "shell",
-      "command": "g++ -g -std=c++17 67256/67256.cpp -o 67256/67256",
+      "command": "g++ -g -std=c++17 17681/17681.cpp -o 17681/17681",
       "group": {
         "kind": "build",
         "isDefault": true
