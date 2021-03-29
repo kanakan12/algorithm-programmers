@@ -41,3 +41,4 @@
 39. [12926](https://programmers.co.kr/learn/courses/30/lessons/12926)
 40. [12928](https://programmers.co.kr/learn/courses/30/lessons/12928)
 41. [12930](https://programmers.co.kr/learn/courses/30/lessons/12930)
+42. [12931](https://programmers.co.kr/learn/courses/30/lessons/12931)
