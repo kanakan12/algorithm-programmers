@@ -38,3 +38,4 @@
 36. [12922](https://programmers.co.kr/learn/courses/30/lessons/12922)
 37. [12925](https://programmers.co.kr/learn/courses/30/lessons/12925)
 38. [70128](https://programmers.co.kr/learn/courses/30/lessons/70128)
+39. [12926](https://programmers.co.kr/learn/courses/30/lessons/12926)
