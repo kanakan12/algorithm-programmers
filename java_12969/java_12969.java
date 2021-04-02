@@ -15,6 +15,7 @@ public class java_12969 {
                 }
                 System.out.println();
             }
+            sc.close();
         }
     }
 }
