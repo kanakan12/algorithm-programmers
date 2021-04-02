@@ -50,3 +50,4 @@
 48. [12940](https://programmers.co.kr/learn/courses/30/lessons/12940)
 49. [12943](https://programmers.co.kr/learn/courses/30/lessons/12943)
 50. [12944](https://programmers.co.kr/learn/courses/30/lessons/12944)
+51. [12947](https://programmers.co.kr/learn/courses/30/lessons/12947)
