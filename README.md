@@ -54,3 +54,4 @@
 52. [12948](https://programmers.co.kr/learn/courses/30/lessons/12948)
 53. [12950](https://programmers.co.kr/learn/courses/30/lessons/12950)
 54. [12954](https://programmers.co.kr/learn/courses/30/lessons/12954)
+55. [12977](https://programmers.co.kr/learn/courses/30/lessons/12977)
