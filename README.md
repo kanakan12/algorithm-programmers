@@ -59,3 +59,4 @@
 57. [12982](https://programmers.co.kr/learn/courses/30/lessons/12982)
 58. [49993](https://programmers.co.kr/learn/courses/30/lessons/49993)
 59. [42583](https://programmers.co.kr/learn/courses/30/lessons/42583)
+60. [42586](https://programmers.co.kr/learn/courses/30/lessons/42586)
