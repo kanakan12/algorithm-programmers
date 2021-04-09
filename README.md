@@ -63,3 +63,4 @@
 61. [42587](https://programmers.co.kr/learn/courses/30/lessons/42587)
 62. [42584](https://programmers.co.kr/learn/courses/30/lessons/42584)
 63. [68645](https://programmers.co.kr/learn/courses/30/lessons/68645)
+64. [42839 / 소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)
