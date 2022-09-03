@@ -5,6 +5,13 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "Launch java_12977",
+      "request": "launch",
+      "mainClass": "java_12977.java_12977",
+      "projectName": "algorithm-programmers_80372fb3"
+    },
+    {
       "name": "(lldb) 시작",
       "type": "cppdbg",
       "request": "launch",
